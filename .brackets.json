@@ -1,0 +1,15 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Users/victo/Desktop/projects/esqueleto/plugins/cordova-plugin-console/tests/tests.js",
+        "C:/Users/victo/Desktop/projects/esqueleto/platforms/android/platform_www/cordova.js",
+        "C:/Users/victo/Desktop/projects/esqueleto/platforms/android/platform_www/cordova_plugins.js",
+        "C:/Users/victo/Desktop/projects/esqueleto/plugins/cordova-plugin-console/www/console-via-logger.js",
+        "C:/Users/victo/Desktop/projects/esqueleto/plugins/cordova-plugin-console/www/logger.js",
+        "C:/Users/victo/Desktop/tesis/projects/esqueleto/platforms/android/platform_www/plugins/cordova-plugin-geolocation/www/PositionError.js",
+        "C:/Users/victo/Desktop/tesis/projects/esqueleto/platforms/android/platform_www/plugins/cordova-plugin-splashscreen/www/splashscreen.js",
+        "C:/Users/victo/Desktop/tesis/projects/esqueleto/platforms/android/platform_www/plugins/cordova-plugin-statusbar/www/statusbar.js",
+        "C:/Users/victo/Desktop/tesis/projects/esqueleto/platforms/android/platform_www/plugins/ionic-plugin-keyboard/www/android/keyboard.js",
+        "C:/Users/victo/Desktop/tesis/projects/esqueleto/platforms/android/platform_www/cordova.js",
+        "C:/Users/victo/Desktop/tesis/projects/esqueleto/platforms/android/platform_www/cordova_plugins.js"
+    ]
+}

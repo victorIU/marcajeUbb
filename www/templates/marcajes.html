@@ -1,0 +1,16 @@
+<ion-view view-title="Marcajes">
+  <ion-content>
+  <div ng-hide="marcajesHide" class="ng-hide">
+    <ion-list>
+      <ion-item class="item item-thumbnail-left" ng-repeat="marcaje in marcajes" href="#/app/marcajes/{{marcaje.id}}">
+        <img src=img/{{marcaje.img}}>
+        <h3>campus: {{marcaje.campus}}</h3>
+        <a>hora: </a>{{marcaje.hora}}<br>
+        <a>dia: </a>{{marcaje.dia}}<br>
+        <a>estado: </a>{{marcaje.estado}}<br>
+        <a>punto: </a>{{marcaje.punto}}<br>
+      </ion-item>
+    </ion-list>
+    </div>
+  </ion-content>
+</ion-view>

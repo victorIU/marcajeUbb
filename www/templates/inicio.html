@@ -1,0 +1,15 @@
+<ion-view view-title="Servicio Asistencia UBB">
+  <ion-content>
+      <button class="button button-full button-positive" ng-click="hacerMarcaje()">
+          Hacer marcaje
+      </button>
+      <button class="button button-full button-positive" ng-click="consultarUbicacion()">
+          Consultar ubicación
+      </button>
+      estas en: <br>
+      {{respuesta}}
+      latitud: {{latitud}}<br>
+      longitud: {{longitud}}
+      <div id="map" data-tap-disabled="true"></div>
+  </ion-content>
+</ion-view>
